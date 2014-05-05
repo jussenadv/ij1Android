@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ImageJ1Android</string>
+    <string name="title_image_detail">Image Detail</string>
+    <string name="title_image_list">Images</string>
+
+</resources>
